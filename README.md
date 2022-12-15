@@ -1,4 +1,4 @@
-# INE5406 - Sistemas Digitais
+# UFSC INE5406 - Sistemas Digitais
 
 |               | Componentes implementados        |  Funciona?   |
 |---------------|:-------------------------------- | :----------- |
